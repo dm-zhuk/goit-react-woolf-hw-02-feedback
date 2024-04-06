@@ -11,24 +11,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-button {
-  display: flex;
-  flex: 1;
-  justify-content: center;
-  text-transform: capitalize;
-  font-weight: bolder;
-  padding: 8px;
-  margin: auto 12px;
-  border: 1px solid lightblue;
-  border-radius: 5px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.feedback-options {
-  display: flex;
-  padding: 20px 0;
-}
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
